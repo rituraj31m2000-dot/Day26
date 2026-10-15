@@ -1,0 +1,8 @@
+Data Item,Classification,Risk,Protection Measure
+Company website,Public,Unauthorized modification,Verify published content
+Employee department,Internal,Information leakage,Restrict internal access
+Customer email,Confidential,Phishing,Limit access and sharing
+Customer phone,Confidential,Spam and scams,Restrict access
+Password,Sensitive,Account compromise,Use salted password hashing
+Bank account details,Sensitive,Financial fraud,Encrypt and restrict access
+Purchase history,Confidential,Privacy violation,Minimize collection and access
