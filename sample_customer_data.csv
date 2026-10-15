@@ -1,0 +1,5 @@
+Customer_ID,Name,Email,Phone,Classification
+C001,Aarav Sharma,aarav@example.com,9000000001,Confidential
+C002,Diya Verma,diya@example.com,9000000002,Confidential
+C003,Rohan Kumar,rohan@example.com,9000000003,Confidential
+C004,Anaya Singh,anaya@example.com,9000000004,Confidential
